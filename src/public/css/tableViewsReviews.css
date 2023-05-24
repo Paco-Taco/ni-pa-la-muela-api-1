@@ -1,8 +1,10 @@
+
 h1{
     margin-top: 10px;
     font-size: 45px;
     text-align: center;
     margin-bottom: 10px;
+    padding-top: 45px;
 }
 
 .aBackToAdd{
@@ -40,14 +42,14 @@ td{
 
 .editButton{
     color: white;
-    background-color: rgb(16, 66, 95);
+    background-color: rgb(16, 95, 54);
     padding: 5px;
     text-decoration: none;
 }
 
 .deleteButton{
     color: white;
-    background-color: rgb(190, 22, 22);
+    background-color: rgb(154, 154, 154);
     padding: 5px;
     text-decoration: none;
 }

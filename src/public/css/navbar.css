@@ -48,8 +48,13 @@
 
 .header .logo{
     cursor:pointer;
-    width: auto;
-    height: 45px;
+    color: white;
+    font-family: 'Manrope';
+    font-weight: 800;
+}
+
+.header .logo a{
+    text-decoration: none;
 }
 
 .header .logo img{

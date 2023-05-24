@@ -4,6 +4,7 @@
     margin-top: 20px;
     margin-bottom: 20px;
     font-size: 45px;
+    padding-top: 45px;
 }
 .addReviewA{
     font-size: 20px;
@@ -107,4 +108,11 @@ button{
     height: 40px;
     margin-left: 30%;
     font-size: 20px;
+    cursor: pointer;
+    border-radius: 30px;
+    transition: all 0.5s;
+}
+
+button:hover{
+    box-shadow: green 0px 2px 10px;
 }
